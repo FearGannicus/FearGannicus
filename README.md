@@ -1,4 +1,5 @@
 ### Hey! 👋, I'm Gannicus.
+*I'm in private policing, but on my sparetime I'm someone who enjoys streaming, programming, producing music and chilling in the outdoors. Below you can find some more information on what I've been up to recently. Thanks for coming by and feel free to message me anytime.*
 
 💻 On Github, you can find me working on;
 - [Exordium](https://github.com/exordium-dev) projects, mainly a [virtual private networking project](https://exordium.org), where all profits gained will go towards environmental protections.
