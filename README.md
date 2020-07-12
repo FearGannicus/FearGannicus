@@ -15,3 +15,4 @@
 - Instagram ([@justscottish](https://instagram.com/justscottish/) or [@feargannicus](https://instagram.com/feargannicus/))
 - Twitter ([@farawaygannicus](https://twitter.com/farawaygannicus/))
 - Twitch ([@feargannicus](https://twitch.tv/feargannicus/))
+- ...or email [gannicus@exordium.org](mailto:gannicus@exordium.org)
