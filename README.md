@@ -1,12 +1,13 @@
 ### Hey! 👋, I'm Gannicus.
-*I'm in private policing, but on my sparetime I'm someone who enjoys streaming, programming, producing music and chilling in the outdoors. Below you can find some more information on what I've been up to recently. Thanks for coming by and feel free to message me anytime.*
+
+*I've recently been spending my time working on the business side of my [Exordium](https://github.com/exordium-dev) project. My plan for Exordium is to create an open source virtual private networking software and encrypted email service. If you're interested in these projects, please check out the [exordium website](https://exordium.org) or [discord server](https://discord.exordium.org)! It would also mean a lot if you [helped support me](https://github.com/sponsors/FearGannicus).*
 
 💻 On Github, you can find me working on;
 - [Exordium](https://github.com/exordium-dev) projects, mainly a [virtual private networking project](https://exordium.org), where all profits gained will go towards environmental protections.
 - Releasing web development projects, like templates or angular websites. 
 
 🌲 Outside of Github, you can find me;
-- Producing music on [my soundcloud](https://soundcloud.com/feargannicus).
+- Producing music on [my soundcloud](https://soundcloud.com/gannicusmusic).
 - Getting in touch with [nature and exploring the outdoors](https://www.instagram.com/justscottish/). 
 - Streaming or watching my mates on [twitch](https://www.twitch.tv/feargannicus).
 
